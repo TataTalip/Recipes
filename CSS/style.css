@@ -1,0 +1,25 @@
+body {
+/*background-color: #747273;*/
+background-image: url(../image/1.jpg);
+}
+
+header {
+    text-align: justify; /*выравнивание теста*/
+    letter-spacing: 1px; /*интервал между между символами*/
+    height: 150px; /*высота*/
+    width: 1285px;
+    padding: 2em ; /*отступ от текста внутри шапки*/
+    background: url(../image/head2.jpg);
+    opacity: 50%;
+    /*color: #9c1f1f; /*цвет текста*/
+    background-attachment: fixed;
+    background-size: contain;
+
+}
+h1{
+    size: 20px;
+    color: #2bb53d;
+    text-align:center;
+    
+
+}
